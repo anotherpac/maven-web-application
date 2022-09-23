@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.203.114.191:8081/repository/iphone-app-releases/</url>
+	      <url>http://44.203.114.191:8081/repository/googleapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.203.114.191:8081/repository/iphone-app-snapshop/</url>
+	      <url>http://44.203.114.191:8081/repository/googleapp-snapshop/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
