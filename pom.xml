@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.203.114.191:8081/repository/googleapp-snapshop/</url>
+	      <url>http://44.201.145.6:4000/repository/capitalone-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
