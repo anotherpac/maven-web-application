@@ -22,7 +22,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:44.201.145.6:5000/</sonar.host.url>
+		<sonar.host.url>http:18.212.182.49:5000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.203.114.191:8081/repository/googleapp-releases/</url>
+	      <url>http://18.212.182.49:8081/repository/googleapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.201.145.6:4000/repository/capitalone-bts-snapshot/</url>
+	      <url>http://18.212.182.49:4000/repository/capitalone-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
